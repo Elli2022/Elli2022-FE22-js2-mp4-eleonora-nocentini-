@@ -1,4 +1,4 @@
-# Elli2022-FE22-js2-mp4-eleonora-nocentini-
+
 
 # FE22-js2-mp4-eleonora-nocentini
 
@@ -55,8 +55,6 @@ npm run build
 ```
 npm run dev
 ```
-
-The application will be accessible at http://localhost:53137.
 
 ## Usage
 
