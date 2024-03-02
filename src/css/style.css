@@ -5,7 +5,6 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
-  background-color: #f5f5f5;
   background-image: url('/src/images/mathematics.jpg');
   background-size: cover;
   background-position: center;
@@ -13,6 +12,7 @@ body {
 }
 
 .calculator {
+  background-color: #f5f5f5;
   border: 1px solid #ccc;
   border-radius: 5px;
   padding: 20px;
